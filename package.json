@@ -4,7 +4,7 @@
   "description": "Client-ready modular Discord bot for Termux.",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=20"
